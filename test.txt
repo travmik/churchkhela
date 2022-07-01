@@ -4,4 +4,4 @@ Dir
 Nastia
 Privetik
 Test-merge
-Added localy
+Added on github
