@@ -1,7 +1,7 @@
 Stas 
 Paf-local
 Dir 
-Nastia
+Nastia-github
 Privetik
 Test-merge
 Added on github
